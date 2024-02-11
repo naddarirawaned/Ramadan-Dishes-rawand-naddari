@@ -1,0 +1,246 @@
+[
+    {
+      "name": "Meshwiya Salad",
+      "ingredients": [
+        "Pepper",
+        "Tomatoe",
+        "Garlic",
+        "Onion"
+      ],
+      "duration": 30
+    },
+    {
+          "name": "Veggie Couscous",
+          "ingredients": [
+              "Semolina",
+              "Potatoe",
+              "Carrot",
+              "Onion",
+              "Tomato paste"
+          ],
+          "duration": 266 
+      },
+      {
+          "name": "Ummak Huriya",
+          "ingredients": [
+              "Carrot",
+              "Garlic",
+              "Harissa",
+              "Onion"
+          ],
+          "duration": 15 
+      },
+      {
+          "name": "Jerbian Rice",
+          "ingredients": [
+              "Carrot",
+              "Rice",
+              "Potatoe",
+              "Onion",
+        "Tomatoe"
+          ],
+          "duration": 300 
+      },
+      {
+          "name": "Shakshouka",
+          "ingredients": [
+              "Egg",
+              "Harissa",
+        "Tomatoe Paste"
+          ],
+          "duration": 40 
+      },
+      {
+          "name": "Tabouleh",
+          "ingredients": [
+              "Bulgur",
+              "Parsley",
+              "Onion",
+              "Tomatoe"
+          ],
+          "duration": 70
+      },
+      {
+          "name": "Soup",
+          "ingredients": [
+              "Bird Tongue",
+              "Garlic",
+              "Onion",
+              "Tomatoe Paste"
+          ],
+          "duration": 40
+      },
+      {
+          "name": "Brik",
+          "ingredients": [
+              "Malsouqa",
+              "Egg",
+              "Tuna"
+          ],
+          "duration": 25 
+      },
+      {
+          "name": "Spaghetti",
+          "ingredients": [
+              "Spaghetti",
+              "Tomatoe Paste",
+              "Chicken"
+          ],
+          "duration": 300
+      },
+      {
+          "name": "BBQ",
+          "ingredients": [
+              "Meat",
+              "Harissa",
+              "Black Pepper",
+              "Garlic"
+          ],
+          "duration": 180
+      },
+      {
+          "name": "French Fries",
+          "ingredients": [
+              "Potatoe",
+              "Salt"
+          ],
+          "duration": 30
+      },
+      {
+          "name": "Stuffed Peppers",
+          "ingredients": [
+              "Pepper",
+              "Garlic",
+              "Onion",
+              "Parsley",
+              "Chicken",
+              "Tomatoe Paste"
+          ],
+          "duration": 274
+      },
+      {
+          "name": "Kabsa",
+          "ingredients": [
+              "Chicken",
+              "Garlic",
+              "Pepper",
+              "Curcuma",
+              "Cinnamon",
+              "Rice"
+          ],
+          "duration": 180
+      },
+      {
+      "name": "Cannelloni",
+          "ingredients": [
+              "Chicken",
+              "Cannelloni",
+              "Onion",
+              "Tomatoe Paste"
+          ],
+          "duration": 150
+      },
+      {
+          "name": "Blunkett Salad",
+          "ingredients": [
+              "Bread",
+              "Horseradish",
+              "Egg",
+              "Tuna"
+          ],
+          "duration": 30
+      },
+      {
+          "name": "Tajeen",
+          "ingredients": [
+              "Egg",
+              "Chicken",
+              "Parsley",
+              "Onion"
+          ],
+          "duration": 43
+      },
+      {
+          "name": "Kamuniya",
+          "ingredients": [
+              "Meat",
+              "Cumin",
+              "Tomatoe Paste"
+          ],
+          "duration": 88 
+      },
+      {
+          "name": "Tunisian Salad",
+          "ingredients": [
+              "Tomatoe",
+              "Onion",
+              "Cucumber"
+          ],
+          "duration": 19 
+      },
+      {
+          "name": "Merguaz",
+          "ingredients": [
+              "Merguaz"
+          ],
+          "duration": 32
+      },
+      {
+          "name": "Masfoof",
+          "ingredients": [
+              "Semolina",
+              "Milk",
+              "Sugar",
+              "Raisin"
+          ],
+          "duration": 70
+      },
+      {
+          "name": "Dweeda",
+          "ingredients": [
+              "Dweeda",
+              "Tomatoe Paste",
+              "Meat",
+              "Potatoe",
+              "Carrot",
+              "Onion"
+          ],
+          "duration": 310
+      },
+      {
+          "name": "Mermez",
+          "ingredients": [
+              "Chickpea",
+              "Tomatoe Paste",
+              "Meat",
+              "Onion"
+          ],
+          "duration": 110
+      },
+      {
+          "name": "Roast Chicken",
+          "ingredients": [
+              "Chicken",
+              "Garlic",
+              "Onion",
+              "Oil"
+          ],
+          "duration": 193
+      }
+  ]
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
